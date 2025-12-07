@@ -4,7 +4,7 @@ Welcome to the official repository of the **JARVIS AI Series** by **AdictToTeach
 Here you will find the source code for every episode.
 
 ## 📺 Watch the Tutorial
-[Click Here to Watch on YouTube](Yahan Apne Video 1 ka Link daal dena)
+Ep1: https://youtu.be/tlfM9HqP7Ts
 
 ## 🚀 Episode 1: The Setup & Voice
 In this episode, we covered:
